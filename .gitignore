@@ -1,0 +1,7 @@
+**/results*
+*.code-workspace
+**/venv
+**/__pycache__
+Libraries/__pycache__
+.idea
+.vscode
